@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の脈で踊りたかった",
+  "base_artist": "幸祜",
+  "createdAt": "2026-03-11T05:37:00.936255Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の脈で踊りたかった",
+      "artist": "幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_君の脈で踊りたかった_幸祜.txt"
+    }
+  ]
+}
